@@ -2,7 +2,7 @@
 <pagescount>
 	<html_total>1</html_total>
 	<html_done>1</html_done>
-	<images>10</images>
+	<images>12</images>
 	<script>2</script>
 	<css/>
 	<pdf/>
@@ -21,8 +21,8 @@
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
 	<email>1s11@gmail.com</email>
-	<theme_name>WmdTheme700394</theme_name>
-	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/robodoge.my.canva.site_1s11_gmail.com_w1ppqye1vo/</server_url_front_page>
+	<theme_name>WmdTheme700537</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/robodoge.my.canva.site_1s11_gmail.com_r0e6u8xpng/</server_url_front_page>
 	<no_www_url>robodoge.my.canva.site</no_www_url>
 	<hosted_domain/>
 	<original_archive_url>https://robodoge.my.canva.site/the-1-chad-meme-in-the-market</original_archive_url>
@@ -31,5 +31,5 @@
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
 	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>2444</total_size>
+	<total_size>2604</total_size>
 </pagescount>
